@@ -35,10 +35,10 @@
 ## Let op, oudere toestellen hebben misschien geen NFC lezer.
 - **Voor Oudere iPhones (voor Iphone XR, 2018 en eerder):** NFC werkt niet automatisch. Vraag de klant de QR code te scannen.
 - **Voor Oudere Android Toestellen:** Als de telefoon geen NFC ondersteunt, vraag de klant de QR code te scannen.
-- **Lukt het lezen van de NFC tag niet? Laat de klant de QR code scannen.
+- **Lukt het lezen van de NFC tag niet?** Laat de klant de QR code scannen.
 
 ## Probleemoplossing
-- **Als de klant problemen ondervindt met privacy:
+- **Als de klant problemen ondervindt met privacy, hier enkele belangrijke antwoorden:**
   - Alle communicatie is op vrijblijvende basis.    
   - De NFC tag / QR code bevat enkel en alleen een website link naar de landingspagina van Mc CleaningSolutions. 
   - Op deze website kan de klant snel in contact komen met MC CleaningSolutions.
