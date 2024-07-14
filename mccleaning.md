@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://mccleaningsolutions.nl/wp-content/uploads/2019/08/MC-cleaning-solutions_logo.png" alt="MC Cleaning Solutions Logo" width="500" />
+</p>
+
+
+
 # Handleiding voor het Gebruik van de MCCleaning NFC/QR Code Kaart
 
 ## Benodigdheden:
