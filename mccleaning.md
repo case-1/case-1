@@ -26,9 +26,10 @@
 3. Houd de bovenkant van de iPhone boven de NFC kaart en beweeg deze langzaam totdat de telefoon de NFC tag detecteert.
 4. Er verschijnt nu een melding op het scherm. Vraag de klant hierop te klikken, zij komen dan op de contactpagina.
 
-## Let op, oudere toestellen hebben geen NFC lezer.
-- **Voor Oudere iPhones (voor XR, 2018):** NFC werkt niet automatisch. Vraag de klant de QR code te scannen.
+## Let op, oudere toestellen hebben misschien geen NFC lezer.
+- **Voor Oudere iPhones (voor Iphone XR, 2018 en eerder):** NFC werkt niet automatisch. Vraag de klant de QR code te scannen.
 - **Voor Oudere Android Toestellen:** Als de telefoon geen NFC ondersteunt, vraag de klant de QR code te scannen.
+- **Lukt het lezen van de NFC tag niet? Laat de klant de QR code scannen.
 
 ## Probleemoplossing
 - **Als de klant problemen ondervindt met privacy:
